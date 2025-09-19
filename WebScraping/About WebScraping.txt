@@ -1,0 +1,21 @@
+Web scraping is an automatic process of extracting information from the web.
+
+It is basically a technique or a process in which large amounts of data from a huge number of websites is passed through a web scraping software coded in a programming language and as a result, structured data is extracted which can be saved locally in our devices preferably in Excel sheets, JSON or spreadsheets. Now, we don't have to manually copy and paste data from websites but a scraper can perform that task for us in a couple of seconds. 
+
+Web scraping is also known as Screen Scraping, Web Data Extraction, Web Harvesting.
+
+This helps programmers write clear, logical code for small and large-scale projects. Python is mostly known as the best web scraper language. It's more like an all-rounder and can handle most of the web crawling related processes smoothly. Scrapy and Beautiful Soup are among the widely used frameworks based on Python that makes scraping using this language such an easy route to take.
+
+A brief list of Python libraries used for web scraping:
+
+- Requests (HTTP for Humans) Library for Web Scraping - It is used for making various types of HTTP requests like GET, POST, etc. It is the most basic yet the most essential of all libraries.
+
+- lxml Library for Web Scraping - lxml library provides super-fast and high-performance parsing of HTML and XML content from websites. If you are planning to scrape large datasets, this is the one you should go for.
+
+- Beautiful Soup Library for Web Scraping - Its work involves creating a parse tree for parsing content. A perfect starting library for beginners and very easy to work with.
+
+- Selenium Library for Web Scraping - Originally made for automated testing of web applications, this library overcomes the issue all the above libraries face i.e. scraping content from dynamically populated websites. This makes it slower and not suitable for industry-level projects.
+
+- Scrapy for Web Scraping - The BOSS of all libraries, an entire web scraping framework which is asynchronous in its usage. This makes it blazing fast and increases efficiency.
+
+
